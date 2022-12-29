@@ -53,13 +53,17 @@
                 "name" :"Akash Tyagi",
                 "assigned" : "12",
                 "achieved" :"7",
-                "time":"1 month"
+                "time":"1 month",
+                "today":"2",
+                "completed":"0"
             },
             {
                 "name" :"Vikas Sharma",
                 "assigned" : "14",
                 "achieved" :"5",
-                "time":"1 month"
+                "time":"1 month",
+                "today" : "2",
+                "completed":"1"
             }
         ],
         "developer" : [

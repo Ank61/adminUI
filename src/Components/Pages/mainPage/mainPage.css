@@ -61,7 +61,6 @@ padding-left: 20px;
     height: 285px;
     background-color: #95cfd9;
     border-radius: 20px;
-    color: black;
     overflow: auto;
 
 }
@@ -81,7 +80,7 @@ padding-left: 20px;
 }
 .heading{
      text-align: center;
-      margin-top: 6px  
+      margin-top: 6px ;
 }
 .Subheading{
     text-align: center;
@@ -109,9 +108,10 @@ padding-left: 20px;
   }
 .text_performance{
     float: left;
-    width: 100px;
+    width: 150px;
+    padding-top: 5px;
     padding-left: 20px;
-    height: 100px;
+    height: 70px;
 }
 .closeButton{
     background-color:#d3966e;
@@ -131,3 +131,23 @@ padding-left: 20px;
     margin-left: 400px;
     margin-bottom: 15px;
 }
+.bda_Month{
+    float: left;
+    background-color: white;
+    border-radius: 20px;
+    color: black;
+    padding-left:  8px; 
+    padding-top: 30px;
+    margin-top: 5px;
+    margin-left:40px;
+    width: 150px;
+    height: 155px;
+     box-shadow:  6px 6px 7px 0px #a3a2a2;
+     transition: transform .25s;
+}
+.bda_Month:hover {
+    box-shadow:none;
+    border: 1px solid #d9bca9;
+    cursor: pointer;
+    transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }

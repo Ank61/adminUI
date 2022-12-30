@@ -44,7 +44,15 @@
         "id": 5,
         "dept" :"Buisness Development",
         "status":"present"
-      }
+      },
+      {
+        "name" : "Amit Gupta",
+        "designation" : "Senior Team Lead",
+        "role" :"admin",
+        "id" :6,
+        "email":"amit@gmail.com",
+        "password" :"amit123"
+    }
     ],
 "dashboard":[
     {  
@@ -80,15 +88,6 @@
             {
                 "name": "Suraj Kumar",
                 "task" : "check performance of Rakesh Saini"
-            }
-        ],
-        "admin" :[
-            {
-                "name" : "Amit Gupta",
-                "designation" : "Senior Team Lead",
-                "role" :"admin",
-                "email":"amit@gmail.com",
-                "password" :"amit123"
             }
         ],
         "projects" :[

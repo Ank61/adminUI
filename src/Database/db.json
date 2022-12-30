@@ -47,10 +47,10 @@
       }
     ],
 "dashboard":[
-    {
+    {  
         "bda" :[
             {
-                "name" :"Akash Tyagi",
+                "name" :"Akash Tyagi", 
                 "assigned" : "12",
                 "achieved" :"7",
                 "time":"1 month",
